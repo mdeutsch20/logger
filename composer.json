@@ -1,0 +1,19 @@
+{
+    "name": "mdeutsch20/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mdeutsch20\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manuel Deutsch",
+            "email": "mdeutsch@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

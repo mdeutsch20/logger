@@ -1,2 +1,9 @@
-PSR-4 autoloading configured. Use "namespace Mdeutsch20\Logger;" in src/
-Include the Composer autoloader with: require 'vendor/autoload.php';
+# Logger
+
+A library to log data.
+
+Memo:
+```php
+namespace Mdeutsch20\Logger;
+require 'vendor/autoload.php';
+```

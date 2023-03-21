@@ -12,7 +12,7 @@ class FileLogger implements ILogger{
 
     public function logEntry(string $line): void
     {
-        fwrite($this->handle, $line . '\n');
+        fwrite($this->handle, $line . "\n");
     }
 
     public function __destruct()
